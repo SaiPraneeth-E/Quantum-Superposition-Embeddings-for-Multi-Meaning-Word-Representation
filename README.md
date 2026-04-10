@@ -126,9 +126,6 @@ The model follows a **multi-stage hybrid pipeline**:
 * M. Sai Nishanth
 * E. Sai Praneeth
 * Desu Deepesh
-
-### Contributors
-
 * Shubhadeep Datta
 * P. Preetham Reddy
 * K. Sri Harshavardhan
